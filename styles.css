@@ -1,0 +1,66 @@
+header{ 
+  text-align: center;
+  padding:5px;
+  font-variant: small-caps;
+ border-top: 1px solid black;
+ border-bottom: 1px solid black;
+ border-right: 15px solid black}
+aside{
+  text-align: right;
+  float: right;
+  padding-right: 15px;
+border-right: 15px solid #016064
+}
+aside::first-line{ 
+ font-weight: bold}
+h1{
+  text-align: left; 
+  font-size: 50px;
+margin: 20px
+}
+h2{
+text-align: center;
+  font-style: italic;
+  font-size: 33px;
+  margin-left: 250px;
+  margin-right: 250px;
+  padding-top: 40px
+}
+p{
+  text-align:justify;
+  margin-left: 250px;
+  margin-right: 250px;
+}
+section{
+  margin-left:250px;
+  margin-right: 250px;
+  margin-bottom:25px;
+  text-align: justify;
+  padding: 10px;
+  background-color: #FFFFE0;
+  border-left: 50px solid #016064;
+  border-right: 3px solid #016064;
+  border-top: 3px solid #016064;
+  border-bottom: 3px solid #016064
+}
+body{
+    background-image: url(https://wcet.waketech.edu/tbbostic/WEB210/Module2/Website1/Images/WidgetCoLogo.gif);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: 450px
+}
+section a:link{
+font-weight: bold  
+}
+  
+Footer{
+  text-align: right; 
+  color: #999DA0;
+   font-style: italic;
+ 
+  border-top: 1px solid #999DA0
+}
+footer a:link{
+  color: #999DA0;
+  border:
+}
